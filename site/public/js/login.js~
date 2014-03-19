@@ -1,0 +1,8 @@
+
+
+   $("#login").on("tap",function(){
+  $(this).hide();
+   $("#tab_main").show()
+
+});
+
