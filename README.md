@@ -1,7 +1,7 @@
 todolistmobile
 ==============
 
-The ToDo List is implemented using Backbone, Jquery, Node, Nginx, MongoDB, HTML5 localstorage, GEolocationAPI
+The ToDo List is implemented using Backbone, Jquery, Node, Nginx, MongoDB, HTML5 localstorage, GeolocationAPI
 
 The client side is implmented using Backbone Models and Views. The Main Model in this application is an item which represents a TODO item. A collection model is also implemented to handle storing and manipulating a collection of items. A location model is also implemented. The models also have event bindings which are used to handle events such as adding an item, checking/unchecking an item, or deleting an item. The Backbone Views are then used to present the information to the user.
 
